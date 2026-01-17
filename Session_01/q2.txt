@@ -1,0 +1,4 @@
+Explain the purpose of the main function in a Dart application.
+-->
+It's a function where you start your program and write your code in, 
+it's used for excute our program, in addition it controls the flow of the program.
