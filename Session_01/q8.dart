@@ -6,3 +6,4 @@
 
 double is a specific type used only for decimal (floating-point) numbers.
 */
+
