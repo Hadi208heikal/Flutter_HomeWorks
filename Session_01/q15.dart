@@ -6,10 +6,8 @@
 /// This prevents assigning wrong types to variables, 
 /// catches errors early, improves performance, 
 /// it follows type safety
-/// 
-/// 
-/// 
-/// 
-/// 
+
+ 
+
 /// It means variables must keep a consistent type , 
 /// so once a variable’s type is set you can’t assign a different type to it.
